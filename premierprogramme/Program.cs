@@ -9,7 +9,7 @@ namespace premierprogramme
     static class Program
     {
         /// <summary>
-        /// Point d'entrée principal de l'application.
+        /// Point d'entrée principal de l'application. Modification
         /// </summary>
         [STAThread]
         static void Main()
